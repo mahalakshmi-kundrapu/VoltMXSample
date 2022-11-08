@@ -1,0 +1,57 @@
+[
+    {
+        "testName": "textpasswordMandatoryVJW",
+        "result": "jasmineReport03-11-2022_19_42_54.html",
+        "passedCount": 0,
+        "failedCount": 0,
+        "pendingCount": 0,
+        "timeStamp": "03-11-2022 19:42:54",
+        "runnerType": "TestCaseRecorder",
+        "channelName": "Mobile",
+        "crashed": false
+    },
+    {
+        "testName": "textpasswordMandatoryVJW",
+        "result": "jasmineReport03-11-2022_19_36_24.html",
+        "passedCount": 0,
+        "failedCount": 0,
+        "pendingCount": 0,
+        "timeStamp": "03-11-2022 19:36:24",
+        "runnerType": "TestCaseRecorder",
+        "channelName": "Mobile",
+        "crashed": false
+    },
+    {
+        "testName": "textpasswordMandatoryVJW",
+        "result": "jasmineReport03-11-2022_19_36_20.html",
+        "passedCount": 0,
+        "failedCount": 0,
+        "pendingCount": 0,
+        "timeStamp": "03-11-2022 19:36:20",
+        "runnerType": "TestCaseRecorder",
+        "channelName": "Mobile",
+        "crashed": false
+    },
+    {
+        "testName": "textpasswordMandatoryVJW",
+        "result": "jasmineReport03-11-2022_19_36_10.html",
+        "passedCount": 0,
+        "failedCount": 0,
+        "pendingCount": 0,
+        "timeStamp": "03-11-2022 19:36:10",
+        "runnerType": "TestCaseRecorder",
+        "channelName": "Mobile",
+        "crashed": false
+    },
+    {
+        "testName": "testUsernameMandatoryVJW",
+        "result": "jasmineReport03-11-2022_19_35_44.html",
+        "passedCount": 0,
+        "failedCount": 0,
+        "pendingCount": 0,
+        "timeStamp": "03-11-2022 19:35:44",
+        "runnerType": "TestCaseRecorder",
+        "channelName": "Mobile",
+        "crashed": false
+    }
+]
